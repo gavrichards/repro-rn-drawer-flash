@@ -18,7 +18,7 @@ Minimal reproduction for a regression in `@react-navigation/elements@2.8.5` wher
 
 1. Clone this repo
 2. `npm install`
-3. Run on an Android device or emulator: `npm run android`
+3. Run on an Android device or emulator: `npm run android` (this runs `expo run:android` — requires Android SDK)
 4. Observe the drawer flash briefly into view as the app mounts
 
 ## Expected behaviour
