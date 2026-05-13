@@ -4,7 +4,7 @@ Attempted minimal reproduction for a regression in `react-native-drawer-layout` 
 
 Originally filed as https://github.com/react-navigation/react-navigation/issues/13107. A partial fix landed in `react-native-drawer-layout@4.2.4` / `@react-navigation/drawer@7.10.1`, but the issue persists in a different form — see below.
 
-Follow-up issue: https://github.com/react-navigation/react-navigation/issues/13120 *(update with new issue number once filed)*
+Follow-up issue: https://github.com/react-navigation/react-navigation/issues/13109
 
 ## Versions
 
