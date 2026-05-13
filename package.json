@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-navigation/drawer": "7.8.x",
+    "@react-navigation/drawer": "^7.10.1",
     "@react-navigation/native": "^7.1.28",
     "expo": "~54.0.33",
     "expo-status-bar": "~3.0.9",
