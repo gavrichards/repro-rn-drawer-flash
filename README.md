@@ -12,8 +12,11 @@ Follow-up issue: https://github.com/react-navigation/react-navigation/issues/131
 |---|---|
 | `@react-navigation/drawer` | 7.10.1 |
 | `@react-navigation/native` | 7.2.4 |
-| `react-native-drawer-layout` | 4.2.4 |
+| `react-native-drawer-layout` | 4.2.4 (transitive) |
 | `react-native-reanimated` | 3.19.5 |
+| `react-native-gesture-handler` | 2.31.2 |
+| `react-native-safe-area-context` | 5.7.0 |
+| `react-native-screens` | 4.24.0 |
 | `react-native` | 0.81.5 (Expo SDK 54, Old Architecture) |
 
 ## Steps to reproduce
