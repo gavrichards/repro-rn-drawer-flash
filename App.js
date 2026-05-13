@@ -10,8 +10,7 @@ function HomeScreen() {
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       <Text>Home Screen</Text>
       <Text style={{ marginTop: 8, color: '#666' }}>
-        On Android, the drawer briefly flashes open on mount.{'\n'}
-        Pin @react-navigation/elements to 2.8.3 to fix it.
+        On Android, the drawer briefly flashes open on mount.
       </Text>
     </View>
   );
